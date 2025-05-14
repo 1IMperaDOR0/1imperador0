@@ -46,6 +46,8 @@ I am a Software Engineer in training, looking for opportunities to improve my sk
 
 ---
 
+<h3>My contributions</h3>
+
 <div align=center>
   <img src="https://raw.githubusercontent.com/1IMperaDOR0/1IMperaDOR0/output/snake.svg" alt="Snake animation" />
 </div>
