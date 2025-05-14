@@ -4,16 +4,16 @@ I am a Software Engineer in training, looking for opportunities to improve my sk
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1imperador0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1imperador0&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center" style="display: flex; flex-direction: column; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=1imperador0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" style="width: 100%;" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1imperador0&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=dracula&hide_border=false" style="width: 100%;" alt="languages graph"  />
 </div>
 
 ---
 
 <h3>My technologies:</h3>
 
-<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2JkamlpenhhbWljcHh4c3g0bmh3ZmQ0czhrNjRqYjBqM25tbmk0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lP8ezu4iNVmZYOZn3j/giphy.gif"  />
+<img align="right" height="175" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2JkamlpenhhbWljcHh4c3g0bmh3ZmQ0czhrNjRqYjBqM25tbmk0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lP8ezu4iNVmZYOZn3j/giphy.gif"  />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="html5 logo"  />
@@ -47,5 +47,5 @@ I am a Software Engineer in training, looking for opportunities to improve my sk
 ---
 
 <div align="center">
-  <img width="1000" src="https://raw.githubusercontent.com/1IMperaDOR0/1imperador0/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/1IMperaDOR0/1imperador0/output/snake.svg" alt="Snake animation" />
 </div>
