@@ -18,7 +18,7 @@ I am a Software Engineer in training, looking for opportunities to improve my sk
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" style="background-color: #fff; border-radius: 5px;  />
+  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
