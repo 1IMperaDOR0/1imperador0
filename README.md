@@ -4,9 +4,9 @@ I am a Software Engineer in training, looking for opportunities to improve my sk
 
 ---
 
-<div align="center" style="display: flex; flex-direction: column; gap: 20px;">
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=1imperador0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" style="width: 100%;" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1imperador0&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=dracula&hide_border=false" style="width: 100%;" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1imperador0&locale=en&hide_title=false&layout=compact&card_width=auto&langs_count=5&theme=dracula&hide_border=false" style="width: 100%;" alt="languages graph"  />
 </div>
 
 ---
@@ -29,6 +29,10 @@ I am a Software Engineer in training, looking for opportunities to improve my sk
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
   <img width="12" />
