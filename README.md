@@ -1,13 +1,10 @@
 <h2>👋 Hello World! My name is Lucas and I'm a software engineering student at FIAP.</h2>
 
-I am a Software Engineer in training, looking for opportunities to improve my skills and contribute to the development of a more technological, better and innovative future. I am very interested in learning (trial, error and correction) and I always seek more knowledge (diverse experiences). I am currently studying Software Engineering at FIAP and FullStack programming at B7Web.
+I am a Software Engineer in training, seeking opportunities to improve my skills and contribute to the development of a more technological, better, and innovative future. I have a great interest in learning (through trial and error) and am always looking for more knowledge. Currently, I am studying Software Engineering at FIAP and Full Stack Programming at B7Web.
 
 ---
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=1imperador0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" style="width: 100%;" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1imperador0&locale=en&hide_title=false&layout=compact&card_width=auto&langs_count=5&theme=dracula&hide_border=false" style="width: 100%;" alt="languages graph"  />
-</div>
+![GitHub Stats](https://raw.githubusercontent.com/1imperador0/github-stats/main/card.svg)
 
 ---
 
