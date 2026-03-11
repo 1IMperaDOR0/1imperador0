@@ -6,7 +6,7 @@
 
 ---
 
-<div>
+<div style="display:grid; gap:10px;">
   <div>
     <img src="https://raw.githubusercontent.com/1imperador0/github-stats/main/generated/stats.svg" width="340">
   </div>
