@@ -8,10 +8,10 @@
 
 <div>
   <div>
-    <img src="https://raw.githubusercontent.com/1imperador0/github-stats/main/generated/stats.svg" width="340">
+    <img src="https://raw.githubusercontent.com/1imperador0/github-stats/main/generated/stats.svg" width="360">
   </div>
   <div>
-    <img src="https://raw.githubusercontent.com/1imperador0/github-stats/main/generated/languages.svg" width="340">
+    <img src="https://raw.githubusercontent.com/1imperador0/github-stats/main/generated/languages.svg" width="360">
   </div>
 </div>
 
