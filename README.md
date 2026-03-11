@@ -1,10 +1,15 @@
-<h2>👋 Hello World! My name is Lucas and I'm a software engineering student at FIAP.</h2>
+<h1>👋 Hello World! My name is Lucas and I'm a software engineering student at FIAP.</h1>
 
-I am a Software Engineer in training, seeking opportunities to improve my skills and contribute to the development of a more technological, better, and innovative future. I have a great interest in learning (through trial and error) and am always looking for more knowledge. Currently, I am studying Software Engineering at FIAP and Full Stack Programming at B7Web.
+<p style="font-size: 20px;">
+  I am a Software Engineer in training, seeking opportunities to improve my skills and contribute to the development of a more technological, better, and innovative future. I have a great interest in learning (through trial and error) and am always looking for more knowledge. Currently, I am studying Software Engineering at FIAP and Full Stack Programming at B7Web.
+</p>
 
 ---
 
-![GitHub Stats](https://raw.githubusercontent.com/1imperador0/github-stats/main/card.svg)
+<p style="display:flex; flex-direction:column; gap:20px;">
+  <img src="https://raw.githubusercontent.com/1imperador0/github-stats/main/generated/stats.svg" width=340>
+  <img src="https://raw.githubusercontent.com/1imperador0/github-stats/main/generated/languages.svg" width=340>
+</p>
 
 ---
 
