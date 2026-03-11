@@ -1,4 +1,4 @@
-<h1>👋 Hello World! My name is Lucas and I'm a software engineering student at FIAP.</h1>
+<h1>👋 Hello, World! My name is Lucas and I'm a software engineering student at FIAP.</h1>
 
 <p style="font-size: 20px;">
   I am a Software Engineer in training, seeking opportunities to improve my skills and contribute to the development of a more technological, better, and innovative future. I have a great interest in learning (through trial and error) and am always looking for more knowledge. Currently, I am studying Software Engineering at FIAP and Full Stack Programming at B7Web.
