@@ -6,10 +6,9 @@
 
 ---
 
-<p style="display:flex; flex-direction:column; gap:20px;">
-  <img src="https://raw.githubusercontent.com/1imperador0/github-stats/main/generated/stats.svg" width=340>
-  <img src="https://raw.githubusercontent.com/1imperador0/github-stats/main/generated/languages.svg" width=340>
-</p>
+<img src="https://raw.githubusercontent.com/1imperador0/github-stats/main/generated/stats.svg" width="340">
+</br>
+<img src="https://raw.githubusercontent.com/1imperador0/github-stats/main/generated/languages.svg" width="340">
 
 ---
 
