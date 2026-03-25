@@ -1,23 +1,23 @@
-<h1>👋 Hello World! My name is Lucas and I'm a software engineering student at FIAP.</h1>
+<h1 style="font-size: 40px">👋 Hello World! My name is Lucas and I'm a software engineering student at FIAP.</h1>
 
-<p style="font-size: 20px;">
+<p style="font-size: 25px;">
   I am a Software Engineer in training, seeking opportunities to improve my skills and contribute to the development of a more technological, better, and innovative future. I have a great interest in learning (through trial and error) and am always looking for more knowledge. Currently, I am studying Software Engineering at FIAP and Full Stack Programming at B7Web.
 </p>
 
 ---
 
-<div>
+<div align="center">
   <div>
-    <img src="https://raw.githubusercontent.com/1imperador0/github-stats/main/generated/stats.svg" width="340">
+    <img src="https://raw.githubusercontent.com/1imperador0/github-stats/main/generated/stats.svg" width="75%">
   </div>
   <div>
-    <img src="https://raw.githubusercontent.com/1imperador0/github-stats/main/generated/languages.svg" width="340">
+    <img src="https://raw.githubusercontent.com/1imperador0/github-stats/main/generated/languages.svg" width="75%">
   </div>
 </div>
 
 ---
 
-<h3>My technologies:</h3>
+<h3 style="font-size: 25px;">My technologies:</h3>
 
 <img align="right" height="175" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2JkamlpenhhbWljcHh4c3g0bmh3ZmQ0czhrNjRqYjBqM25tbmk0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lP8ezu4iNVmZYOZn3j/giphy.gif"  />
 
@@ -55,7 +55,7 @@
 
 ---
 
-<h3>My contacts:</h3>
+<h3 style="font-size: 25px;">My contacts:</h3>
 
 <div align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lucaslucore@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
@@ -67,8 +67,12 @@
 
 ---
 
-<h3>My contributions:</h3>
+<h3 style="font-size: 25px;">My contributions:</h3>
 
 <div align=center>
   <img src="https://raw.githubusercontent.com/1IMperaDOR0/1IMperaDOR0/output/snake.svg" alt="Snake animation" />
 </div>
+
+<br/>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=1imperador0&label=Profile%20views&color=0e75b6&style=flat" alt="Lucas Sena" /></p>
