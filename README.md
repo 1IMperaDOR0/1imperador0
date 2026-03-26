@@ -1,3 +1,5 @@
+<img src="src/assets/images/digital_circus_banner.jpg" width="100%">
+
 <h1 style="font-size: 40px">👋 Hello, World! My name is Lucas and I'm a software engineering student at FIAP.</h1>
 
 <p style="font-size: 25px;">
@@ -7,6 +9,7 @@
 ---
 
 <div>
+  <img align="right" src="src/assets/images/digital_circus_hero.jpg" width="354px" />
   <div>
     <img src="https://raw.githubusercontent.com/1imperador0/github-stats/main/generated/stats.svg">
   </div>
@@ -19,7 +22,7 @@
 
 <h3 style="font-size: 25px;">My technologies:</h3>
 
-<img align="right" height="175" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2JkamlpenhhbWljcHh4c3g0bmh3ZmQ0czhrNjRqYjBqM25tbmk0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lP8ezu4iNVmZYOZn3j/giphy.gif"  />
+<img align="right" src="src/assets/images/kinger_coding_gif.gif" height="200px" top="-100px" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
