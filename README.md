@@ -9,7 +9,7 @@
 ---
 
 <div>
-  <img align="right" src="src/assets/images/digital_circus_hero.jpg" style="max-width: 354px;" />
+  <img align="right" src="src/assets/images/digital_circus_hero.jpg" width="42%" />
   <div>
     <img src="https://raw.githubusercontent.com/1imperador0/github-stats/main/generated/stats.svg">
   </div>
@@ -22,7 +22,7 @@
 
 <h3 style="font-size: 25px;">My technologies:</h3>
 
-<img align="right" src="src/assets/images/kinger_coding_gif.gif" style="max-height: 200px;" top="-100px" />
+<img align="right" src="src/assets/images/kinger_coding_gif.gif" width="50%" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
