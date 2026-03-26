@@ -82,3 +82,5 @@
 <br/>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=1imperador0&label=Profile%20views&color=0e75b6&style=flat" alt="Lucas Sena" /></p>
+
+<img src="src/assets/images/digital_circus_banner.jpg" width="100%">
