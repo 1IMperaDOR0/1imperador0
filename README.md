@@ -10,12 +10,12 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="49%">
       <img src="https://raw.githubusercontent.com/1imperador0/github-stats/main/generated/stats.svg" width="100%" />
       <br/>
       <img src="https://raw.githubusercontent.com/1imperador0/github-stats/main/generated/languages.svg" width="100%" />
     </td>
-    <td width="50%">
+    <td width="51%">
       <img src="src/assets/images/digital_circus_hero.jpg" width="100%">
     </td>
   </tr>
