@@ -6,12 +6,12 @@
 
 ---
 
-<div align="center">
+<div>
   <div>
-    <img src="https://raw.githubusercontent.com/1imperador0/github-stats/main/generated/stats.svg" width="100%">
+    <img src="https://raw.githubusercontent.com/1imperador0/github-stats/main/generated/stats.svg">
   </div>
   <div>
-    <img src="https://raw.githubusercontent.com/1imperador0/github-stats/main/generated/languages.svg" width="100%">
+    <img src="https://raw.githubusercontent.com/1imperador0/github-stats/main/generated/languages.svg">
   </div>
 </div>
 
