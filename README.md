@@ -8,16 +8,19 @@
 
 ---
 
-<div>
-  <img align="right" src="src/assets/images/digital_circus_hero.jpg" width="42%" />
-  <div>
-    <img src="https://raw.githubusercontent.com/1imperador0/github-stats/main/generated/stats.svg">
-  </div>
-  <div>
-    <img src="https://raw.githubusercontent.com/1imperador0/github-stats/main/generated/languages.svg">
-  </div>
-</div>
-
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/1imperador0/github-stats/main/generated/stats.svg" width="100%" />
+      <br/>
+      <img src="https://raw.githubusercontent.com/1imperador0/github-stats/main/generated/languages.svg" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="src/assets/images/digital_circus_hero.jpg" width="100%">
+    </td>
+  </tr>
+</table>
+  
 ---
 
 <h3 style="font-size: 25px;">My technologies:</h3>
